@@ -7,16 +7,11 @@ use Illuminate\Support\Facades\Auth;
 use Inertia\Inertia;
 
 Route::get('/', function () {
-    // Redirect to business units if authenticated, otherwise show welcome/login
+    // Redirect to business units if authenticated, otherwise redirect to login
     if (Auth::check()) {
         return redirect('/business-units');
     }
-    return Inertia::render('Welcome', [
-        'canLogin' => Route::has('login'),
-        'canRegister' => Route::has('register'),
-        'laravelVersion' => Application::VERSION,
-        'phpVersion' => PHP_VERSION,
-    ]);
+    return redirect()->route('login');
 });
 
 // Business Unit Selection (after login)
