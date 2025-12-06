@@ -1,0 +1,573 @@
+{
+  "_AdminLayout-BsWQVUyA.js": {
+    "file": "assets/AdminLayout-BsWQVUyA.js",
+    "name": "AdminLayout",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_ApplicationLogo-HetPQ3ID.js": {
+    "file": "assets/ApplicationLogo-HetPQ3ID.js",
+    "name": "ApplicationLogo",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_BellIcon-Dv1bUASU.js": {
+    "file": "assets/BellIcon-Dv1bUASU.js",
+    "name": "BellIcon",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_CalendarIcon-CxQwmsXy.js": {
+    "file": "assets/CalendarIcon-CxQwmsXy.js",
+    "name": "CalendarIcon",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_ChartBarIcon-C8upfHPT.js": {
+    "file": "assets/ChartBarIcon-C8upfHPT.js",
+    "name": "ChartBarIcon",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_CheckCircleIcon-BXm6WNEU.js": {
+    "file": "assets/CheckCircleIcon-BXm6WNEU.js",
+    "name": "CheckCircleIcon",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_ChevronRightIcon-DfqrH1ed.js": {
+    "file": "assets/ChevronRightIcon-DfqrH1ed.js",
+    "name": "ChevronRightIcon",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_ClockIcon-DDhiotMX.js": {
+    "file": "assets/ClockIcon-DDhiotMX.js",
+    "name": "ClockIcon",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_FunnelIcon-Ditbtnek.js": {
+    "file": "assets/FunnelIcon-Ditbtnek.js",
+    "name": "FunnelIcon",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_GuestLayout-CRWX98n5.js": {
+    "file": "assets/GuestLayout-CRWX98n5.js",
+    "name": "GuestLayout",
+    "imports": [
+      "resources/js/app.jsx",
+      "_ApplicationLogo-HetPQ3ID.js"
+    ]
+  },
+  "_InputLabel-Ds9mTGuI.js": {
+    "file": "assets/InputLabel-Ds9mTGuI.js",
+    "name": "InputLabel",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_InventoryChart-Bw05tBUd.js": {
+    "file": "assets/InventoryChart-Bw05tBUd.js",
+    "name": "InventoryChart",
+    "imports": [
+      "resources/js/app.jsx",
+      "_index-Cv-CL_P3.js"
+    ]
+  },
+  "_LpgLayout-DASVyZYe.js": {
+    "file": "assets/LpgLayout-DASVyZYe.js",
+    "name": "LpgLayout",
+    "imports": [
+      "resources/js/app.jsx",
+      "_TruckIcon-DZruayOW.js",
+      "_ChartBarIcon-C8upfHPT.js",
+      "_BellIcon-Dv1bUASU.js",
+      "_UserCircleIcon-qV8Inthz.js"
+    ]
+  },
+  "_MapPinIcon-DRI8t2d_.js": {
+    "file": "assets/MapPinIcon-DRI8t2d_.js",
+    "name": "MapPinIcon",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_Pagination-B6GMYXi-.js": {
+    "file": "assets/Pagination-B6GMYXi-.js",
+    "name": "Pagination",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_PlusIcon-BkkFFCWJ.js": {
+    "file": "assets/PlusIcon-BkkFFCWJ.js",
+    "name": "PlusIcon",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_PrimaryButton-DxqAqwPS.js": {
+    "file": "assets/PrimaryButton-DxqAqwPS.js",
+    "name": "PrimaryButton",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_StatusBadge-C4JMZm9G.js": {
+    "file": "assets/StatusBadge-C4JMZm9G.js",
+    "name": "StatusBadge",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_TextInput-FzdDNNW8.js": {
+    "file": "assets/TextInput-FzdDNNW8.js",
+    "name": "TextInput",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_TruckIcon-DZruayOW.js": {
+    "file": "assets/TruckIcon-DZruayOW.js",
+    "name": "TruckIcon",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_UserCircleIcon-qV8Inthz.js": {
+    "file": "assets/UserCircleIcon-qV8Inthz.js",
+    "name": "UserCircleIcon",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_index-Cv-CL_P3.js": {
+    "file": "assets/index-Cv-CL_P3.js",
+    "name": "index",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_transition-BtS3UE--.js": {
+    "file": "assets/transition-BtS3UE--.js",
+    "name": "transition",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/Auth/ConfirmPassword.jsx": {
+    "file": "assets/ConfirmPassword-nQ8en172.js",
+    "name": "ConfirmPassword",
+    "src": "resources/js/Pages/Auth/ConfirmPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_TextInput-FzdDNNW8.js",
+      "_InputLabel-Ds9mTGuI.js",
+      "_PrimaryButton-DxqAqwPS.js",
+      "_GuestLayout-CRWX98n5.js",
+      "_ApplicationLogo-HetPQ3ID.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ForgotPassword.jsx": {
+    "file": "assets/ForgotPassword-Bzd17viL.js",
+    "name": "ForgotPassword",
+    "src": "resources/js/Pages/Auth/ForgotPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_TextInput-FzdDNNW8.js",
+      "_PrimaryButton-DxqAqwPS.js",
+      "_GuestLayout-CRWX98n5.js",
+      "_ApplicationLogo-HetPQ3ID.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Login.jsx": {
+    "file": "assets/Login-DDc7wX8I.js",
+    "name": "Login",
+    "src": "resources/js/Pages/Auth/Login.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_TextInput-FzdDNNW8.js",
+      "_InputLabel-Ds9mTGuI.js",
+      "_PrimaryButton-DxqAqwPS.js",
+      "_GuestLayout-CRWX98n5.js",
+      "_ApplicationLogo-HetPQ3ID.js"
+    ]
+  },
+  "resources/js/Pages/Auth/Register.jsx": {
+    "file": "assets/Register-DVaphyZ9.js",
+    "name": "Register",
+    "src": "resources/js/Pages/Auth/Register.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_TextInput-FzdDNNW8.js",
+      "_InputLabel-Ds9mTGuI.js",
+      "_PrimaryButton-DxqAqwPS.js",
+      "_GuestLayout-CRWX98n5.js",
+      "_ApplicationLogo-HetPQ3ID.js"
+    ]
+  },
+  "resources/js/Pages/Auth/ResetPassword.jsx": {
+    "file": "assets/ResetPassword-DJosmJTX.js",
+    "name": "ResetPassword",
+    "src": "resources/js/Pages/Auth/ResetPassword.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_TextInput-FzdDNNW8.js",
+      "_InputLabel-Ds9mTGuI.js",
+      "_PrimaryButton-DxqAqwPS.js",
+      "_GuestLayout-CRWX98n5.js",
+      "_ApplicationLogo-HetPQ3ID.js"
+    ]
+  },
+  "resources/js/Pages/Auth/VerifyEmail.jsx": {
+    "file": "assets/VerifyEmail-I6saNnJa.js",
+    "name": "VerifyEmail",
+    "src": "resources/js/Pages/Auth/VerifyEmail.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_PrimaryButton-DxqAqwPS.js",
+      "_GuestLayout-CRWX98n5.js",
+      "_ApplicationLogo-HetPQ3ID.js"
+    ]
+  },
+  "resources/js/Pages/BusinessUnitSelection.jsx": {
+    "file": "assets/BusinessUnitSelection-Cgcb1RYX.js",
+    "name": "BusinessUnitSelection",
+    "src": "resources/js/Pages/BusinessUnitSelection.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/Dashboard.jsx": {
+    "file": "assets/Dashboard-B-uPo0ZF.js",
+    "name": "Dashboard",
+    "src": "resources/js/Pages/Dashboard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "resources/js/Pages/DashboardHomeScreen.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_InventoryChart-Bw05tBUd.js",
+      "_index-Cv-CL_P3.js"
+    ]
+  },
+  "resources/js/Pages/DashboardHomeScreen.jsx": {
+    "file": "assets/DashboardHomeScreen-C6WQk9yY.js",
+    "name": "DashboardHomeScreen",
+    "src": "resources/js/Pages/DashboardHomeScreen.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_InventoryChart-Bw05tBUd.js",
+      "_index-Cv-CL_P3.js"
+    ]
+  },
+  "resources/js/Pages/Inventory.jsx": {
+    "file": "assets/Inventory-DF5pTsoj.js",
+    "name": "Inventory",
+    "src": "resources/js/Pages/Inventory.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_InventoryChart-Bw05tBUd.js",
+      "_index-Cv-CL_P3.js"
+    ]
+  },
+  "resources/js/Pages/InventoryOverview.jsx": {
+    "file": "assets/InventoryOverview-z8bnxjfO.js",
+    "name": "InventoryOverview",
+    "src": "resources/js/Pages/InventoryOverview.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_StatusBadge-C4JMZm9G.js",
+      "_Pagination-B6GMYXi-.js"
+    ]
+  },
+  "resources/js/Pages/MonthlyOrders.jsx": {
+    "file": "assets/MonthlyOrders-CjmgN4Y1.js",
+    "name": "MonthlyOrders",
+    "src": "resources/js/Pages/MonthlyOrders.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_Pagination-B6GMYXi-.js",
+      "_PlusIcon-BkkFFCWJ.js",
+      "_CalendarIcon-CxQwmsXy.js",
+      "_FunnelIcon-Ditbtnek.js"
+    ]
+  },
+  "resources/js/Pages/OrderDetails.jsx": {
+    "file": "assets/OrderDetails-DyIUHmye.js",
+    "name": "OrderDetails",
+    "src": "resources/js/Pages/OrderDetails.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_ClockIcon-DDhiotMX.js",
+      "_TruckIcon-DZruayOW.js",
+      "_CheckCircleIcon-BXm6WNEU.js"
+    ]
+  },
+  "resources/js/Pages/Orders.jsx": {
+    "file": "assets/Orders-CNQ2tv_I.js",
+    "name": "Orders",
+    "src": "resources/js/Pages/Orders.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_CalendarIcon-CxQwmsXy.js",
+      "_ChevronRightIcon-DfqrH1ed.js",
+      "_ClockIcon-DDhiotMX.js"
+    ]
+  },
+  "resources/js/Pages/Products/ProductDetails.jsx": {
+    "file": "assets/ProductDetails-p9TYiUfQ.js",
+    "name": "ProductDetails",
+    "src": "resources/js/Pages/Products/ProductDetails.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_index-Cv-CL_P3.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Edit.jsx": {
+    "file": "assets/Edit-lNh77_Mo.js",
+    "name": "Edit",
+    "src": "resources/js/Pages/Profile/Edit.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_ApplicationLogo-HetPQ3ID.js",
+      "_transition-BtS3UE--.js",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx",
+      "_TextInput-FzdDNNW8.js",
+      "_InputLabel-Ds9mTGuI.js",
+      "_PrimaryButton-DxqAqwPS.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx": {
+    "file": "assets/DeleteUserForm-DoLS3q3j.js",
+    "name": "DeleteUserForm",
+    "src": "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_TextInput-FzdDNNW8.js",
+      "_InputLabel-Ds9mTGuI.js",
+      "_transition-BtS3UE--.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx": {
+    "file": "assets/UpdatePasswordForm-CpQxA4KW.js",
+    "name": "UpdatePasswordForm",
+    "src": "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_TextInput-FzdDNNW8.js",
+      "_InputLabel-Ds9mTGuI.js",
+      "_PrimaryButton-DxqAqwPS.js",
+      "_transition-BtS3UE--.js"
+    ]
+  },
+  "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx": {
+    "file": "assets/UpdateProfileInformationForm-uWLmqP4b.js",
+    "name": "UpdateProfileInformationForm",
+    "src": "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_TextInput-FzdDNNW8.js",
+      "_InputLabel-Ds9mTGuI.js",
+      "_PrimaryButton-DxqAqwPS.js",
+      "_transition-BtS3UE--.js"
+    ]
+  },
+  "resources/js/Pages/ReplenishmentRecommendations.jsx": {
+    "file": "assets/ReplenishmentRecommendations-D0EQNH9t.js",
+    "name": "ReplenishmentRecommendations",
+    "src": "resources/js/Pages/ReplenishmentRecommendations.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_ChartBarIcon-C8upfHPT.js",
+      "_FunnelIcon-Ditbtnek.js"
+    ]
+  },
+  "resources/js/Pages/Reports.jsx": {
+    "file": "assets/Reports-bSJSUpSj.js",
+    "name": "Reports",
+    "src": "resources/js/Pages/Reports.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_ChartBarIcon-C8upfHPT.js"
+    ]
+  },
+  "resources/js/Pages/Settings.jsx": {
+    "file": "assets/Settings-B7hl1scC.js",
+    "name": "Settings",
+    "src": "resources/js/Pages/Settings.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_UserCircleIcon-qV8Inthz.js",
+      "_BellIcon-Dv1bUASU.js"
+    ]
+  },
+  "resources/js/Pages/WarehouseDetails.jsx": {
+    "file": "assets/WarehouseDetails-DPmzKmIZ.js",
+    "name": "WarehouseDetails",
+    "src": "resources/js/Pages/WarehouseDetails.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_StatusBadge-C4JMZm9G.js",
+      "_MapPinIcon-DRI8t2d_.js",
+      "_UserCircleIcon-qV8Inthz.js",
+      "_FunnelIcon-Ditbtnek.js"
+    ]
+  },
+  "resources/js/Pages/Warehouses.jsx": {
+    "file": "assets/Warehouses-BB1GC-xI.js",
+    "name": "Warehouses",
+    "src": "resources/js/Pages/Warehouses.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_AdminLayout-BsWQVUyA.js",
+      "_MapPinIcon-DRI8t2d_.js"
+    ]
+  },
+  "resources/js/Pages/Welcome.jsx": {
+    "file": "assets/Welcome-BOJdLmwh.js",
+    "name": "Welcome",
+    "src": "resources/js/Pages/Welcome.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/Pages/lpg/LpgDashboard.jsx": {
+    "file": "assets/LpgDashboard-DVnMIutY.js",
+    "name": "LpgDashboard",
+    "src": "resources/js/Pages/lpg/LpgDashboard.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_LpgLayout-DASVyZYe.js",
+      "_CheckCircleIcon-BXm6WNEU.js",
+      "_ClockIcon-DDhiotMX.js",
+      "_CalendarIcon-CxQwmsXy.js",
+      "_TruckIcon-DZruayOW.js",
+      "_ChartBarIcon-C8upfHPT.js",
+      "_BellIcon-Dv1bUASU.js",
+      "_UserCircleIcon-qV8Inthz.js"
+    ]
+  },
+  "resources/js/Pages/lpg/LpgMonthlyOrder.jsx": {
+    "file": "assets/LpgMonthlyOrder-Dj0GQDft.js",
+    "name": "LpgMonthlyOrder",
+    "src": "resources/js/Pages/lpg/LpgMonthlyOrder.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_LpgLayout-DASVyZYe.js",
+      "_PlusIcon-BkkFFCWJ.js",
+      "_CalendarIcon-CxQwmsXy.js",
+      "_TruckIcon-DZruayOW.js",
+      "_ChartBarIcon-C8upfHPT.js",
+      "_BellIcon-Dv1bUASU.js",
+      "_UserCircleIcon-qV8Inthz.js"
+    ]
+  },
+  "resources/js/Pages/lpg/LpgOrders.jsx": {
+    "file": "assets/LpgOrders-D9w0tUSz.js",
+    "name": "LpgOrders",
+    "src": "resources/js/Pages/lpg/LpgOrders.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx",
+      "_LpgLayout-DASVyZYe.js",
+      "_CalendarIcon-CxQwmsXy.js",
+      "_ChevronRightIcon-DfqrH1ed.js",
+      "_ClockIcon-DDhiotMX.js",
+      "_CheckCircleIcon-BXm6WNEU.js",
+      "_TruckIcon-DZruayOW.js",
+      "_ChartBarIcon-C8upfHPT.js",
+      "_BellIcon-Dv1bUASU.js",
+      "_UserCircleIcon-qV8Inthz.js"
+    ]
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-zsuxT_Cb.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Auth/ConfirmPassword.jsx",
+      "resources/js/Pages/Auth/ForgotPassword.jsx",
+      "resources/js/Pages/Auth/Login.jsx",
+      "resources/js/Pages/Auth/Register.jsx",
+      "resources/js/Pages/Auth/ResetPassword.jsx",
+      "resources/js/Pages/Auth/VerifyEmail.jsx",
+      "resources/js/Pages/BusinessUnitSelection.jsx",
+      "resources/js/Pages/Dashboard.jsx",
+      "resources/js/Pages/DashboardHomeScreen.jsx",
+      "resources/js/Pages/Inventory.jsx",
+      "resources/js/Pages/InventoryOverview.jsx",
+      "resources/js/Pages/MonthlyOrders.jsx",
+      "resources/js/Pages/OrderDetails.jsx",
+      "resources/js/Pages/Orders.jsx",
+      "resources/js/Pages/Products/ProductDetails.jsx",
+      "resources/js/Pages/Profile/Edit.jsx",
+      "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx",
+      "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx",
+      "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx",
+      "resources/js/Pages/ReplenishmentRecommendations.jsx",
+      "resources/js/Pages/Reports.jsx",
+      "resources/js/Pages/Settings.jsx",
+      "resources/js/Pages/WarehouseDetails.jsx",
+      "resources/js/Pages/Warehouses.jsx",
+      "resources/js/Pages/Welcome.jsx",
+      "resources/js/Pages/lpg/LpgDashboard.jsx",
+      "resources/js/Pages/lpg/LpgMonthlyOrder.jsx",
+      "resources/js/Pages/lpg/LpgOrders.jsx"
+    ],
+    "css": [
+      "assets/app-DZ_bbgH2.css"
+    ]
+  }
+}
