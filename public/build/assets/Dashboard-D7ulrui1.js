@@ -1,1 +1,0 @@
-import{j as r}from"./app-ObSmbdK7.js";import o from"./DashboardHomeScreen-D0VpYhxj.js";import"./AdminLayout-Bhq3a2vT.js";import"./InventoryChart-5SVDxfbz.js";import"./index-BoLpQpz8.js";function p(){return r.jsx(o,{})}export{p as default};

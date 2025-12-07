@@ -1,1 +1,0 @@
-import{j as t}from"./app-ObSmbdK7.js";function s(r){return t.jsx("img",{...r,src:"/images/assets/logo_totalenergies.png",alt:"TotalEnergies — Lyra",onError:o=>{o.currentTarget.style.display="none"}})}export{s as A};

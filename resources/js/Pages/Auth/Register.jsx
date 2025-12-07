@@ -27,7 +27,7 @@ export default function Register() {
 
             <div className="mb-6 text-center">
                 <h2 className="text-xl font-extrabold text-red-700">Create your Lyra account</h2>
-                <p className="text-sm text-neutral-700">Lubricant Inventory Management and Replenishment System</p>
+                <p className="text-sm text-neutral-700">Manage Fuel, Lubricants and LPG</p>
             </div>
 
             <form onSubmit={submit}>
